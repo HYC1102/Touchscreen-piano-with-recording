@@ -1,8 +1,9 @@
 # Microprocessors
-Repository for Physics Year 3 microprocessors lab
+Repository for Touchscreen-piano written in assembly code for PIC18 microprocessor
 
-A simple assembly program for PIC18 microprocessor
+Functionalities:
 
-Reads a table (message) from programme memory to data memory
-
-Initialises UART and writes a message (the table) to UART 
+ - 9 key output piano
+ - generate square / sine wave
+ - Recording & replay
+ - clear memory 
